@@ -1,0 +1,1 @@
+Program includes realization of numerical methods. You can find method of simple iteration, method of secant, method of Newton for system and interpolation of Lagrange.
